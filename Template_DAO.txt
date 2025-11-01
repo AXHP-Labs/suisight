@@ -1,0 +1,35 @@
+#9CA3AF
+Proposal: $IKA >$0.05 by 23 Nov?
+
+@everyone
+Creator: 0x25c0...4d78
+Market Question: "Will $IKA token exceed $0.05 by November 23, 2025?"
+
+Cast your vote, Sighters!
+=============================================================================
+#39D393 YES
+Proposal: $IKA >$0.05 by 23 Nov 2025?
+
+Final Votes:
+- YES: 400 votes (23.5%)
+- NO: 1,300 votes (76.5%)
+Result: APPROVED✅
+Creator: 0x25c0f4c9065e4e1a4fa251ebf2523847446b2ec16bed2eaabf2379a8bc804d78
+
+Market is now LIVE!
+
+Thank you for participating in governance!
+=============================================================================
+#F87171 NO
+Proposal: $IKA >$0.05 by 23 Nov 2025?
+
+Final Votes:
+- YES: 400 votes (23.5%)
+- NO: 1,300 votes (76.5%)
+Result: REJECTED❌
+Creator: 0x25c0f4c9065e4e1a4fa251ebf2523847446b2ec16bed2eaabf2379a8bc804d78
+
+Market will not be created
+
+Thank you for participating in governance!
+=============================================================================

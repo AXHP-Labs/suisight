@@ -1,0 +1,71 @@
+#F87171
+Market: SEC approves a Solana ETF in October 2025?
+@everyone
+⏰ REPORTER NEEDED NOW
+Status: EXPIRED - Awaiting Resolution
+
+Earn rewards by reporting:
+💎 Stake 20 SUI
+📊 Submit outcome (YES/NO)
+💰 Earn 3.4% of losing pool
+
+Resolve: https://oraclesui.noasight.xyz/#/resolve
+
+Market: https://sui.noasight.xyz/#/market/0x40771473f2d49401421a49a0176d7c500a04ac1b943fd6c3a7475b70832daec3
+
+⚠️ Warning: Dishonest reports will be disputed!
+- You'll lose your reward
+- Other Sighters can challenge you
+- 24h dispute window active
+
+Be accurate. Get rewarded. 🎯
+=============================================================================
+#E5E7EB
+Market: Real Madrid wins vs Barcelona?
+
+@everyone
+⚠️ DISPUTE WINDOW ACTIVE
+Proposed: YES ✅
+Time Left: 23h 59m
+Proof: https://www.sec.gov/
+
+What happens next:
+1️⃣ Dispute window ends (23h 59m)
+2️⃣ Winners claim rewards! 🏆
+Reporter: 0xfd5cf1...3a1bfa
+Stake: 20.00 SUI
+
+Disagree? Dispute before time runs out!
+
+Dispute: https://oraclesui.noasight.xyz/#/disputes
+
+Market: https://sui.noasight.xyz/#/market/0xcbd5e8aeb4ceee745678325e52bfeb4772947877fc1fa4561ee03152d1af3bc5
+=============================================================================
+#39D393 YES
+#F87171 NO
+SEC approves a Solana ETF in October 2025?
+
+@everyone
+✅ Resolution: YES 🟢🔴
+
+Results:
+No Solana ETF approval by SEC in October 2025
+
+🏆 NO holders WIN!
+
+📊 Proof: https://www.sec.gov/
+💰 Market: https://sui.noasight.xyz/#/market/[link]
+=============================================================================
+US debt > $39T in 2025?
+@everyone
+
+❌ Resolution: NO 🔴
+
+Results:
+- Target: >$39T
+- Actual: $38.7T (as of Dec 31, 2025)
+
+🏆 NO holders WIN!
+
+📊 Proof: https://fiscaldata.treasury.gov/
+💰 Market: https://sui.noasight.xyz/#/market/[link]
