@@ -1,0 +1,47 @@
+I have decentralized prediction market platform
+So I want to create a tweet post about a market that I just created.
+Here is the detail of the market
+Metaplanet holds >40K BTC in November?
+
+Market Details:
+Starting Volume: 10 SUI
+Resolution: 30 November 2025
+Time Remaining: 29 days 7 hours
+Category: Crypto
+
+Predict: https://sui.noasight.xyz/#/market/0x599fd4f933b81337ca7a6bdedcb46a7dcf4beec255fe28a9373e242ffd050ec7
+
+I want create a tweet post with current latest narration from Twitter community or Bitcoin Maxis or Insititutional Investor to support my market, so the tweet post will be narration text in maximum 280 character
+==============================================
+I have decentralized prediction market platform
+So previously I created a tweet post like this to promote a market that on my platform. The tweet is:
+Another week, another "orange dot day" for Strategy.
+
+Michael Saylor's $BTC treasury just hit 640,808. The machine never stops.
+
+Will their relentless buying push past 660,000 BTC in November?
+
+Predict the stack on #Sui:
+https://sui.noasight.xyz/#/market/0x756b5060a414e5319342c11683ca16fae605c22ad96c86828301372fdd99f61a
+
+#NoaSight #PredictionMarket
+
+Now I want to create a thread post on twitter to support my market and my previous tweet
+Here is the detail of my market
+Strategy holds >660K BTC in November?
+117.68 SUI Vol.
+12/1/2025
+27d
+19h
+93.21% chance
+Market Statistics
+Total Volume
+117.6760 SUI
+Total Trades
+3
+
+https://sui.noasight.xyz/#/market/0x599fd4f933b81337ca7a6bdedcb46a7dcf4beec255fe28a9373e242ffd050ec7
+
+I want create a thread post on twitter with current latest narration from the combination of Twitter community and Bitcoin Maxis and Insititutional Investor to support my market.
+
+Also I want to ask you, do I have to quote my previous tweet with the new thread post or I just create a new thread post without quote my previous tweet?

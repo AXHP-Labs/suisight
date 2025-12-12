@@ -1,0 +1,36 @@
+Saya ingin membuat post weekly report dengan data berikut
+Volume by Total: 5702.53 SUI
+Volume by Category: 
+- Crypto: 4382.60 SUI
+- Economics: 838.18 SUI
+- Other: 203.59 SUI
+- Politics: 257.23 SUI
+- Science: 0.00 SUI
+- Sports: 0.0 SUI
+- Technology: 20.94 SUI
+Total Value Locked: 8084.74 SUI
+Top 5 current unresolved market by total volume
+#	Question	Category	Yes Bets	No Bets	Total Bets
+1	MetaMask launches token in 2025?	Crypto	1018.93 SUI	211.84 SUI	1230.78 SUI
+2	Bitcoin reach >$133K in 2025?	Crypto	128.91 SUI	244.36 SUI	373.28 SUI
+3	100% tariff on China in effect by 1 Nov 2025?	Economics	3.98 SUI	229.38 SUI	233.36 SUI
+4	SUI >$3.5 by 20 Nov?	Crypto	105.38 SUI	126.45 SUI	231.83 SUI
+5	SUI hits previous ATH in 2025?	Crypto	49.90 SUI	170.49 SUI	220.39 SUI
+Yes vs No Trade Volume
+No Volume (SUI): 2768.77
+Yes Volume (SUI): 2234.65
+Weekly trade count
+No Trades: 122
+Total trades: 188
+Yes Trades: 66
+Trading Volume Over Time
+Retail Volume (<10 SUI) : 471.07 SUI
+Whale Volume (≥10 SUI) : 4532.36 SUI
+Number of Trades Over Time
+Retail Trades (<10 SUI) : 124 Trades
+Whale Trades (≥10 SUI): 64 trades
+Weekly Earnings Breakdown
+DAO Rewards : 0.0000 SUI
+LP Fees : 3.4847 SUI
+Oracle Rewards : 2.1564 SUI
+Platform Fees : 12.3300 SUI
